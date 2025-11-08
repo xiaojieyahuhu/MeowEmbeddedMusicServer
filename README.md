@@ -56,6 +56,21 @@ MeowEmbeddedMusicServer 是一个为嵌入式设备制作的音乐串流服务�
 # 教程文档
 请参阅 [维基](https://github.com/IntelligentlyEverything/MeowEmbeddedMusicServer/wiki).
 
+## 致谢
+
+本项目 Fork 自 [IntelligentlyEverything/MeowEmbeddedMusicServer](https://github.com/IntelligentlyEverything/MeowEmbeddedMusicServer)
+
+感谢原作者的优秀工作！
+
+## 贡献者
+
+<a href="https://github.com/xiaojieyahuhu/MeowEmbeddedMusicServer/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=xiaojieyahuhu/MeowEmbeddedMusicServer" />
+</a>
+
+特别感谢：
+- [IntelligentlyEverything](https://github.com/IntelligentlyEverything) - 原作者
+- [xiaojieyahuhu](https://github.com/xiaojieyahuhu) - Fork 维护者
 
 ## Star 历史
 
